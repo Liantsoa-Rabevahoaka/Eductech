@@ -1,0 +1,14 @@
+.container {
+    display: flex; /* ou display: grid; */
+    justify-content: space-between;
+    
+     /* ou d'autres valeurs pour aligner les cartes */
+  }
+  header {
+	background-image: url('../Assets/images/book.png');
+	background-repeat: no-repeat;
+	background-position: left top;
+	padding-left: 50px; /* Ajustez l'espacement selon vos besoins */
+	height: 100px; /* Ajustez la hauteur selon vos besoins */
+  }
+  
