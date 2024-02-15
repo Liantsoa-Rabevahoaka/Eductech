@@ -1,31 +1,32 @@
-Voici comment exécuter le projet Eductech :
+Here's how to run the Eductech project:
 
-1. Téléchargez le fichier zip.
+1. Download the zip file.
 
-2. Extrayez le fichier 
+2. Extract the file
 
-3. Collez-le dans le répertoire racine (pour xampp, xampp/htdocs ; pour wamp, wamp/www ; pour lamp, var/www/html).
+3. Paste it in the root directory (for xampp, xampp/htdocs; for wamp, wamp/www; for lamp, var/www/html).
 
-4. Ouvrez PHPMyAdmin (http://localhost/phpmyadmin).
+4. Open PHPMyAdmin (http://localhost/phpmyadmin).
 
-5. Créez une base de données avec le nom "educhtech".
+5. Create a database with the name "educhtech".
 
-6. Importez le fichier eductech.sql (fourni dans le dossier SQL du fichier zip).
+6. Import the eductech.sql file (provided in the SQL folder of the zip file).
 
-7. Modifiez les liens de code par rapport à votre emplacement
+7. Change code links relative to your location
 
-8. Exécutez le script en accédant à http://localhost/Eductech (frontend).
+8. Run the script by navigating to http://localhost/Eductech (frontend).
 
-Informations d'identification pour le panneau d'administration :
+Credentials for admin panel:
 
-Nom d'utilisateur : admin
-Mot de passe : admin
+Username: admin
+Password: admin
 
-Vous pouvez également vous inscrire en tant que nouveau admin.
+You can also register as a new admin.
 
-Informations d'identification pour le panneau étudiant/utilisateur :
+Credentials for Student/User Panel:
 
-Nom d'utilisateur : koto
-Mot de passe : koto
+Username: koto
+Password: koto
 
-Vous pouvez également vous inscrire en tant que nouveau étudiant/utilisateur.
+You can also register as a new student/user.
+
